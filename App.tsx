@@ -4,6 +4,7 @@
  *
  * @format
  */
+import 'expo-dev-client';
 
 import React from 'react';
 import type {PropsWithChildren} from 'react';

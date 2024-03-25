@@ -8,6 +8,12 @@
       }
     },
     "owner": "irfansikumbang",
-    "slug": "rn-expo-update"
+    "slug": "rn-expo-update",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/d1160985-6e64-44b6-9953-35ac59eb92ad"
+    },
+    "android": {},
+    "ios": {}
   }
 }
