@@ -1,4 +1,13 @@
 {
   "name": "RNExpoUpdates",
-  "displayName": "RNExpoUpdates"
+  "displayName": "Expo Updates",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d1160985-6e64-44b6-9953-35ac59eb92ad"
+      }
+    },
+    "owner": "irfansikumbang",
+    "slug": "rn-expo-update"
+  }
 }
