@@ -2,6 +2,7 @@
   "name": "RNExpoUpdates",
   "displayName": "Expo Updates",
   "expo": {
+    "jsEngine": "hermes",
     "extra": {
       "eas": {
         "projectId": "d1160985-6e64-44b6-9953-35ac59eb92ad"
@@ -14,6 +15,8 @@
       "url": "https://u.expo.dev/d1160985-6e64-44b6-9953-35ac59eb92ad"
     },
     "android": {},
-    "ios": {}
+    "ios": {
+      "jsEngine": "jsc"
+    }
   }
 }
