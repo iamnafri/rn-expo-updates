@@ -3,9 +3,10 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - 'android/**'
-      - 'ios/**'
+    paths:
+      - 'src/**'
+      - '!android/**'
+      - '!ios/**'
 jobs:
   update:
     runs-on: ubuntu-latest
